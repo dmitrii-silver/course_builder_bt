@@ -1,5 +1,5 @@
 ---
 layout: course_default
-title: About
+title: Settings
 ---
 <h1><%= resource.data.title %></h1>

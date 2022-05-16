@@ -1,10 +1,10 @@
 ---
-layout: unit
+layout: module
 title: Units
 ---
 
 <ul>
-  <% collections.units.resources.each do |unit| %>
+  <% collections.modules.resources.each do |unit| %>
     <li>
       <a href="<%= unit.relative_url %>"><%= unit.data.title %></a>
     </li>

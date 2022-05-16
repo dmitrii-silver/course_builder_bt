@@ -34,8 +34,8 @@ collections:
   courses:
     output: true
     relations:
-      has_many: units  
-  units:
+      has_many: modules  
+  modules:
     output: true
     relations:
       has_many: courses
