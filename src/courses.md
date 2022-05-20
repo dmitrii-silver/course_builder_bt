@@ -14,7 +14,6 @@ title: Courses
           <td>
             <p>&nbsp;</p>
             <div class="level-right">
-              <p>&nbsp;</p>
               <p class="has-text-weight-bold"><%= course.data.annotation %></p>
             </div>
           </td>
